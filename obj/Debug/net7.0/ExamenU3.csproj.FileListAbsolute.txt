@@ -1,0 +1,15 @@
+C:\Users\cd06\source\repos\ExamenU3\bin\Debug\net7.0\ExamenU3.exe
+C:\Users\cd06\source\repos\ExamenU3\bin\Debug\net7.0\ExamenU3.deps.json
+C:\Users\cd06\source\repos\ExamenU3\bin\Debug\net7.0\ExamenU3.runtimeconfig.json
+C:\Users\cd06\source\repos\ExamenU3\bin\Debug\net7.0\ExamenU3.dll
+C:\Users\cd06\source\repos\ExamenU3\bin\Debug\net7.0\ExamenU3.pdb
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.csproj.AssemblyReference.cache
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.AssemblyInfoInputs.cache
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.AssemblyInfo.cs
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.csproj.CoreCompileInputs.cache
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.dll
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\refint\ExamenU3.dll
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.pdb
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ExamenU3.genruntimeconfig.cache
+C:\Users\cd06\source\repos\ExamenU3\obj\Debug\net7.0\ref\ExamenU3.dll
